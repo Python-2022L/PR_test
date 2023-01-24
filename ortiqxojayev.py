@@ -1,0 +1,1 @@
+print( 'Ortiqxojayev Javohir')
