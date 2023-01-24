@@ -1,0 +1,1 @@
+print('Davron Do`stqobilov')
