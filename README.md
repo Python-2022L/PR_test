@@ -1,3 +1,4 @@
 ## Pull Request Test
 
-1. Javohir Jalilov
+1. Qobiljon
+2. Javohir Jalilov
